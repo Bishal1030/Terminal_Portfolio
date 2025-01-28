@@ -115,10 +115,10 @@ const App = () => {
       window.open(`https://github.com/Bishal1030`);
     },
     source: () => {
-      window.open(`https://github.com/Bishal1030/react-terminator`);
+      window.open(`https://github.com/Bishal1030/Terminal_Portfolio`);
     },
     findmeon: () => {
-      window.open(`https://linktr.ee/thelazyycodes`);
+      window.open(`https://linktr.ee/Bishal_Shahi`);
     },
     resume: () => {
       window.open(
@@ -203,7 +203,7 @@ const App = () => {
       </TerminalToolbar>
 
       <TerminalWrapper>
-        <h3>Welcome to Terminator. Feel free to explore me!</h3>
+        <h3>Welcome, I am Bishal Shahi. Feel free to explore me!</h3>
         <p>Type `help` to see what all commands are available</p>
 
         {/* Outputs */}
