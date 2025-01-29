@@ -91,7 +91,7 @@ const App = () => {
             'ls - list files',
             'resume - view my resume',
             'intro - print intro message',
-            'findemon - list of all my social handles',
+            'findmeon - list of all my social handles',
           ],
         },
       ]);
